@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+images
+train_audio
+bird_taxonomy.csv
